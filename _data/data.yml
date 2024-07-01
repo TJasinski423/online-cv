@@ -97,18 +97,19 @@ education:
 skills:
     title: Skills
 
-    info:
-      - item: Postman
+    toolset:
+      - name: Postman
 
-      - item: Atlassian application stack (Jira, Confluence)
+      - name: Atlassian application stack (Jira, Confluence)
 
-      - item: Browser developer tools
+      - name: Browser developer tools
 
-      - item: SQL
+      - name: SQL
 
-      - item: Azure DevOps
+      - name: Azure DevOps
 
-      - item: Git
+      - name: Git
+        # level: 60%
 
 footer: >
     I hereby consent to my personal data being processed for the purpose of considering my application for the vacancy.
