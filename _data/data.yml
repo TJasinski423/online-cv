@@ -94,6 +94,26 @@ education:
         university: Wyższa szkoła Bankowa Wrocław
         time: 2017 - 2021
 
+skills:
+    title: Skills
+
+    info:
+      - item: Postman
+
+      - item: Atlassian application stack (Jira, Confluence)
+
+      - item: Browser developer tools
+
+      - item: SQL
+
+      - item: Azure DevOps
+
+      - item: Git
+
+footer: >
+    I hereby consent to my personal data being processed for the purpose of considering my application for the vacancy.
+
+
 # certifications:
 #       title: Certifications
 #       list:
@@ -203,27 +223,3 @@ education:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills
-
-    toolset:
-      - name: Postman
-        # level: 98%
-
-      - name: Atlassian application stack (Jira, Confluence)
-        # level: 98%
-
-      - name: Browser developer tools
-        # level: 98%
-
-      - name: SQL
-        # level: 95%
-
-      - name: Azure DevOps
-        # level: 85%
-
-      - name: Git
-        # level: 60%
-
-footer: >
-    I hereby consent to my personal data being processed for the purpose of considering my application for the vacancy.
